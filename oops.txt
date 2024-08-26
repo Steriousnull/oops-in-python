@@ -1,0 +1,8 @@
+   oops
+
+object
+class
+inheritance
+polymorphism
+abstraction
+encapsulation
